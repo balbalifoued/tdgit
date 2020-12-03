@@ -8,7 +8,7 @@
     </style>
 </head><body>
 <?php
-$tab=array("Balbali"=>array("Safouen","Nabeul",21),"Ben Mahmoud"=>array("Ali","Tunis",22),"Krouna"=>array("Moez","Djerba",20));
+$tab=array("Marc"=>array("cédric","Paris",21),"Dupond"=>array("Ali","Paris",22),"Franc"=>array("Alex","Lyon",20));
 print_r($tab);
 $i=1;
 foreach($tab as $cle=>$valeur)
