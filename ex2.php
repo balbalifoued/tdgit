@@ -11,13 +11,21 @@
     $tab=array("Balbali"=>array("prenom"=>"Safouen","ville"=>"Nabeul","age"=>22),
     "Ben Mahmoud"=>array("prenom"=>"Ali","ville"=>"Tunis","age"=>22),
     "Krouna"=>array("prenom"=>"Moez","ville"=>"Djerba","age"=>20));
+<<<<<<< HEAD
     $tab2=["Balbali"=>["prenom"=>"Safouen","ville"=>"Nabeul","age"=>22],
+=======
+ 
+>>>>>>> 72076fd63cff72b0a9dafe75549bfec253be4430
     "Ben Mahmoud"=>["prenom"=>"Ali","ville"=>"Tunis","age"=>22],
     "Krouna"=>["prenom"=>"Moez","ville"=>"Djerba","age"=>20]];
     print_r($tab2);
     echo"<br>";
     print_r("-----------------------------------------");
+<<<<<<< HEAD
     echo"<br>"; 
+=======
+
+>>>>>>> 72076fd63cff72b0a9dafe75549bfec253be4430
 $i=1; 
 //echo "<table>";
 
